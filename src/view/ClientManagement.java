@@ -57,6 +57,7 @@ public class ClientManagement {
         //释放资源
         pstmt.close();
         conn.close();
+    
     }
 
 
